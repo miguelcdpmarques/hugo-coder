@@ -140,25 +140,3 @@ url = "posts/"
 name = "Projects"
 weight = 3
 url = "projects/"
-
-[languages.pt-br.params]
-author = "Miguel Marques"
-info = "Software Developer e Tech Recruiter"
-description = "Website pessoal de Miguel Marqued"
-keywords = "blog,developer,pessoal"
-footerContent = ""
-
-[[languages.pt-br.menu.main]]
-name = "Sobre"
-weight = 1
-url = "about/"
-
-[[languages.pt-br.menu.main]]
-name = "Blog"
-weight = 2
-url = "posts/"
-
-[[languages.pt-br.menu.main]]
-name = "Projetos"
-weight = 3
-url = "projects/"

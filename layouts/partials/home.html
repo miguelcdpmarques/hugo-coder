@@ -36,4 +36,15 @@
     </ul>
     {{ end }}
   </div>
+  <article>
+    <header>
+      <h1 class="title">
+        <a class="title-link" href="{{ .Permalink | safeURL }}">
+          {{ .Title }}
+        </a>
+      </h1>
+    </header>
+
+    {{ .Content }}
+  </article>
 </section>
