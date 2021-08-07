@@ -141,16 +141,12 @@ name = "Projects"
 weight = 3
 url = "projects/"
 
-[languages.pt-br]
-languageName = ":brazil:"
-title = "Miguel Marqued"
-
 [languages.pt-br.params]
-author = "Miguel Marqued"
-info = "Full Stack DevOps e Mágico"
+author = "Miguel Marques"
+info = "Software Developer e Tech Recruiter"
 description = "Website pessoal de Miguel Marqued"
 keywords = "blog,developer,pessoal"
-footerContent = "Coloque texto aqui."
+footerContent = ""
 
 [[languages.pt-br.menu.main]]
 name = "Sobre"
