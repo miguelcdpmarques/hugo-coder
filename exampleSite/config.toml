@@ -119,7 +119,7 @@ url = "https://stackoverflow.com/users/9230980/miguel-marques?tab=profile"
 
 [[params.social]]
 name = "Email"
-icon = "fa fa-envelope"
+icon = "far fa-envelope"
 weight = 2
 url = "mailto:miguelcdpmarques@gmail.com"
 
