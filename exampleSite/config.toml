@@ -112,18 +112,16 @@ weight = 4
 url = "https://www.linkedin.com/in/miguelcdpmarques/"
 
 [[params.social]]
-name = "Medium"
-icon = "fa fa-medium"
-weight = 5
-url = "https://medium.com/@johndoe"
+name = "Stack Overflow"
+icon = "fa fa-stack-overflow"
+weight = 4
+url = "https://stackoverflow.com/users/9230980/miguel-marques?tab=profile"
 
 [[params.social]]
-name = "RSS"
-icon = "fa fa-rss"
-weight = 6
-url = "https://myhugosite.com/index.xml"
-rel = "alternate"
-type = "application/rss+xml"
+name = "Email"
+icon = "fa fa-envelope"
+weight = 2
+url = "mailto:miguelcdpmarques@gmail.com"
 
 [languages.en]
 languageName = ":uk:"
@@ -150,14 +148,14 @@ url = "contact/"
 
 [languages.pt-br]
 languageName = ":brazil:"
-title = "João Ninguém"
+title = "Miguel Marqued"
 
 [languages.pt-br.params]
-author = "João Ninguém"
+author = "Miguel Marqued"
 info = "Full Stack DevOps e Mágico"
-description = "Sítio pessoal de João Ninguém"
-keywords = "blog,desenvolvedor,pessoal"
-footerContent = "Coloque algum texto aqui."
+description = "Website pessoal de Miguel Marqued"
+keywords = "blog,developer,pessoal"
+footerContent = "Coloque texto aqui."
 
 [[languages.pt-br.menu.main]]
 name = "Sobre"
@@ -175,6 +173,6 @@ weight = 3
 url = "projects/"
 
 [[languages.pt-br.menu.main]]
-name = "Contato"
+name = "Contacto"
 weight = 5
 url = "contact/"
